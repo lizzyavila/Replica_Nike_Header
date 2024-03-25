@@ -1,0 +1,48 @@
+html{
+background-color: #9de1f0;}
+
+body {
+    background-color: #ffffff;
+    margin: auto;
+
+}
+
+.container {
+    width: 1200px;
+    margin: 5px;
+}
+
+.navbar .logo {
+    width: 25%;
+    float: left;
+    margin-top: 10px;
+}
+
+.navbar .logo img {
+    width: 65px;
+    margin: 3%;
+    margin-left: 45px;
+}
+
+.navbar .pestañas {
+    width: 60%;
+    float: left;
+    list-style-type: none;
+}
+
+.navbar .pestañas a {
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+    padding: 2px;
+    margin-left: 30px;
+    font-weight: 600;
+    color: #000000;
+    cursor: pointer;
+    transition: 0.5s;
+    text-decoration: none;
+}
+
+.body1{
+    background-color: #9de1f0;
+    height: 2%;
+}
